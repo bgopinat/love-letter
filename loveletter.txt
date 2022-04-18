@@ -5,5 +5,6 @@ yellow
 green
 purple
 pink
+orange
 
 I am seeing rainbow in your face.
