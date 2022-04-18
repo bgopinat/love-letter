@@ -3,5 +3,6 @@ red
 blue 
 yellow 
 green
+purple
 
 I am seeing rainbow in your face.
